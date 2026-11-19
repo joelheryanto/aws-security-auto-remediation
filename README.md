@@ -16,7 +16,7 @@ EC2 Security Group Change -> AWS CloudTrail -> Amazon EventBridge Rule -> AWS La
 ![IAM Least Privilege Role](screenshots/03-iam-least-privilege.png)
 
 ### 2. Deteksi EventBridge, Auto-Remediation & Email Alert
-![EventBridge Security Rule Event Pattern](screenshots/04-eventbridge-event-pattern.png)
-![EventBridge Security Rule Target Lambda](screenshots/04-eventbridge-target-lambda.png)
+![EventBridge Security Rule Event Pattern](screenshots/04-eventbridge-rule-event-pattern.png)
+![EventBridge Security Rule Target Lambda](screenshots/04-eventbridge-rule-target-lambda.png)
 ![CloudWatch Remediation Log](screenshots/05-cloudwatch-remediation-log.png)
 ![SNS Email Security Alert](screenshots/06-sns-email-alert.png)
